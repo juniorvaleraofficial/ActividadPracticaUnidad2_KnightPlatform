@@ -1,0 +1,3252 @@
+fileFormatVersion: 2
+guid: 12e9419f8efecf242b9a917147a68ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5648656357665396753
+    second: Platform_Stone_A_0
+  - first:
+      213: 5949968744824526215
+    second: Platform_Stone_A_1
+  - first:
+      213: 5431340322413030808
+    second: Platform_Stone_A_2
+  - first:
+      213: -428033166112445567
+    second: Platform_Stone_A_3
+  - first:
+      213: -6475726201883301224
+    second: Platform_Stone_A_4
+  - first:
+      213: 2364972616599602738
+    second: Platform_Stone_A_5
+  - first:
+      213: -8147952181346995270
+    second: Platform_Stone_A_6
+  - first:
+      213: -6494715739645261616
+    second: Platform_Stone_A_7
+  - first:
+      213: 4148076946347033335
+    second: Platform_Stone_A_8
+  - first:
+      213: 241163923911984066
+    second: Platform_Stone_A_9
+  - first:
+      213: 5560073131604107206
+    second: Platform_Stone_A_10
+  - first:
+      213: 8220200509458353888
+    second: Platform_Stone_A_11
+  - first:
+      213: 344191175901111827
+    second: Platform_Stone_A_12
+  - first:
+      213: -4036189271192620020
+    second: Platform_Stone_A_13
+  - first:
+      213: 5561261305827727619
+    second: Platform_Stone_A_14
+  - first:
+      213: -5710877904989733617
+    second: Platform_Stone_A_15
+  - first:
+      213: -107180530201715502
+    second: Platform_Stone_A_16
+  - first:
+      213: 5870993771050258930
+    second: Platform_Stone_A_17
+  - first:
+      213: -9178944241351989703
+    second: Platform_Stone_A_18
+  - first:
+      213: 722223806812903158
+    second: Platform_Stone_A_19
+  - first:
+      213: -23429261185198521
+    second: Platform_Stone_A_20
+  - first:
+      213: 1069215514443103878
+    second: Platform_Stone_A_21
+  - first:
+      213: 5761332178347228694
+    second: Platform_Stone_A_22
+  - first:
+      213: -8738354448393960174
+    second: Platform_Stone_A_23
+  - first:
+      213: 6363385952781115802
+    second: Platform_Stone_A_24
+  - first:
+      213: 7434438896318625898
+    second: Platform_Stone_A_25
+  - first:
+      213: -6891397448225489578
+    second: Platform_Stone_A_26
+  - first:
+      213: 1560043944520306297
+    second: Platform_Stone_A_27
+  - first:
+      213: 204572306963895952
+    second: Platform_Stone_A_28
+  - first:
+      213: -4881639390995043198
+    second: Platform_Stone_A_29
+  - first:
+      213: -9157598202998973417
+    second: Platform_Stone_A_30
+  - first:
+      213: -3945480065366714581
+    second: Platform_Stone_A_31
+  - first:
+      213: -5664774906564292529
+    second: Platform_Stone_A_32
+  - first:
+      213: -6780939296086708038
+    second: Platform_Stone_A_33
+  - first:
+      213: -6864656324040404689
+    second: Platform_Stone_A_34
+  - first:
+      213: 1569399624250702111
+    second: Platform_Stone_A_35
+  - first:
+      213: 7137587786019501791
+    second: Platform_Stone_A_36
+  - first:
+      213: 3090011109046639480
+    second: Platform_Stone_A_37
+  - first:
+      213: -3237304120683938518
+    second: Platform_Stone_A_38
+  - first:
+      213: 1903781387240692566
+    second: Platform_Stone_A_39
+  - first:
+      213: 3991341113263557273
+    second: Platform_Stone_A_40
+  - first:
+      213: -6815958032277871842
+    second: Platform_Stone_A_41
+  - first:
+      213: -9155596410120062229
+    second: Platform_Stone_A_42
+  - first:
+      213: 3474184019876588433
+    second: Platform_Stone_A_43
+  - first:
+      213: -3003093631657348746
+    second: Platform_Stone_A_44
+  - first:
+      213: -3573564664659723645
+    second: Platform_Stone_A_45
+  - first:
+      213: 3299261244881949908
+    second: Platform_Stone_A_46
+  - first:
+      213: 4463392418828410639
+    second: Platform_Stone_A_47
+  - first:
+      213: 8853372089963490761
+    second: Platform_Stone_A_48
+  - first:
+      213: -7202283183148932851
+    second: Platform_Stone_A_49
+  - first:
+      213: -5907400924069641809
+    second: Platform_Stone_A_50
+  - first:
+      213: 6129476064189936095
+    second: Platform_Stone_A_51
+  - first:
+      213: 1533001778526283720
+    second: Platform_Stone_A_52
+  - first:
+      213: -3867491095098201291
+    second: Platform_Stone_A_53
+  - first:
+      213: 2345267364714490800
+    second: Platform_Stone_A_54
+  - first:
+      213: 6169094975570481209
+    second: Platform_Stone_A_55
+  - first:
+      213: -1446522054371981238
+    second: Platform_Stone_A_56
+  - first:
+      213: 6178857198776229056
+    second: Platform_Stone_A_57
+  - first:
+      213: 7433240953407827736
+    second: Platform_Stone_A_58
+  - first:
+      213: 2008470176495680352
+    second: Platform_Stone_A_59
+  - first:
+      213: 6627106501109919849
+    second: Platform_Stone_A_60
+  - first:
+      213: 1439827088495422288
+    second: Platform_Stone_A_61
+  - first:
+      213: 5632770003325160020
+    second: Platform_Stone_A_62
+  - first:
+      213: 8145348727204918131
+    second: Platform_Stone_A_63
+  - first:
+      213: 5416505698007379602
+    second: Platform_Stone_A_64
+  - first:
+      213: -7431212422225479577
+    second: Platform_Stone_A_65
+  - first:
+      213: -4172546525602567338
+    second: Platform_Stone_A_66
+  - first:
+      213: 7117133150440491278
+    second: Platform_Stone_A_67
+  - first:
+      213: -7244279091899552686
+    second: Platform_Stone_A_68
+  - first:
+      213: 7444637081180820880
+    second: Platform_Stone_A_69
+  - first:
+      213: -4681160928589497152
+    second: Platform_Stone_A_70
+  - first:
+      213: -5322863133104864503
+    second: Platform_Stone_A_71
+  - first:
+      213: -611129724376843807
+    second: Platform_Stone_A_72
+  - first:
+      213: -4014815946847837730
+    second: Platform_Stone_A_73
+  - first:
+      213: 4706758396618781128
+    second: Platform_Stone_A_74
+  - first:
+      213: -8609947952749309186
+    second: Platform_Stone_A_75
+  - first:
+      213: -5671213349266868660
+    second: Platform_Stone_A_76
+  - first:
+      213: 3300097268761340276
+    second: Platform_Stone_A_77
+  - first:
+      213: -3465830141240948905
+    second: Platform_Stone_A_78
+  - first:
+      213: 671606119138105640
+    second: Platform_Stone_A_79
+  - first:
+      213: 1780261528193663300
+    second: Platform_Stone_A_80
+  - first:
+      213: 7790274308559557214
+    second: Platform_Stone_A_81
+  - first:
+      213: 4349040601109559368
+    second: Platform_Stone_A_82
+  - first:
+      213: -3518550808351470988
+    second: Platform_Stone_A_83
+  - first:
+      213: -3510843608642710145
+    second: Platform_Stone_A_84
+  - first:
+      213: 4622158493002717896
+    second: Platform_Stone_A_85
+  - first:
+      213: 6481378942843134062
+    second: Platform_Stone_A_86
+  - first:
+      213: -2055591141186234628
+    second: Platform_Stone_A_87
+  - first:
+      213: 2214180809354791325
+    second: Platform_Stone_A_88
+  - first:
+      213: 4035884263074603071
+    second: Platform_Stone_A_89
+  - first:
+      213: 7419939036744365969
+    second: Platform_Stone_A_90
+  - first:
+      213: 655802234847549146
+    second: Platform_Stone_A_91
+  - first:
+      213: 5929469778119674258
+    second: Platform_Stone_A_92
+  - first:
+      213: 8080505349364715290
+    second: Platform_Stone_A_93
+  - first:
+      213: -2058562355923258016
+    second: Platform_Stone_A_94
+  - first:
+      213: -7534155141065742053
+    second: Platform_Stone_A_95
+  - first:
+      213: 5591310139280114547
+    second: Platform_Stone_A_96
+  - first:
+      213: 3546963521553668905
+    second: Platform_Stone_A_97
+  - first:
+      213: -25931071922549253
+    second: Platform_Stone_A_98
+  - first:
+      213: -7128760759721897755
+    second: Platform_Stone_A_99
+  - first:
+      213: -138281025925395611
+    second: Platform_Stone_A_100
+  - first:
+      213: 8604862457387418971
+    second: Platform_Stone_A_101
+  - first:
+      213: 8085798489558495746
+    second: Platform_Stone_A_102
+  - first:
+      213: -9175840950012258503
+    second: Platform_Stone_A_103
+  - first:
+      213: -7750446123622890336
+    second: Platform_Stone_A_104
+  - first:
+      213: 6615914245366059425
+    second: Platform_Stone_A_105
+  - first:
+      213: 1492404954095638184
+    second: Platform_Stone_A_106
+  - first:
+      213: -3145401674414122516
+    second: Platform_Stone_A_107
+  - first:
+      213: 867444629782619469
+    second: Platform_Stone_A_108
+  - first:
+      213: -3606628160588868517
+    second: Platform_Stone_A_109
+  - first:
+      213: -6800060227748590863
+    second: Platform_Stone_A_110
+  - first:
+      213: 1111500113530928151
+    second: Platform_Stone_A_111
+  - first:
+      213: -1395313910175980035
+    second: Platform_Stone_A_112
+  - first:
+      213: 4250019625663739318
+    second: Platform_Stone_A_113
+  - first:
+      213: 6242999943570623899
+    second: Platform_Stone_A_114
+  - first:
+      213: 8855423332506802271
+    second: Platform_Stone_A_115
+  - first:
+      213: -3498863958189868746
+    second: Platform_Stone_A_116
+  - first:
+      213: 8130774655016356855
+    second: Platform_Stone_A_117
+  - first:
+      213: 8319663866623407924
+    second: Platform_Stone_A_118
+  - first:
+      213: 1165803365494251323
+    second: Platform_Stone_A_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platform_Stone_A_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 2125
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72a1778f0fb91b0800000000000000
+      internalID: -5648656357665396753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 703
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78551f39c09829250800000000000000
+      internalID: 5949968744824526215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 699
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2fab2f3fff5b40800000000000000
+      internalID: 5431340322413030808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 665
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b28cd6a125f0af0800000000000000
+      internalID: -428033166112445567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 699
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6e0a44599126a0800000000000000
+      internalID: -6475726201883301224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 698
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23602fb801212d020800000000000000
+      internalID: 2364972616599602738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 695
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab371f729a8acee80800000000000000
+      internalID: -8147952181346995270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 658
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d84e4df1722ed5a0800000000000000
+      internalID: -6494715739645261616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 693
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28008510ee09930800000000000000
+      internalID: 4148076946347033335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 679
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c961af49c85300800000000000000
+      internalID: 241163923911984066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 687
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd47efd09592d40800000000000000
+      internalID: 5560073131604107206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_11
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 658
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee00c49fc4041270800000000000000
+      internalID: 8220200509458353888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_12
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 703
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e8660d00d6c400800000000000000
+      internalID: 344191175901111827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_13
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 690
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0432541e339cf7c0800000000000000
+      internalID: -4036189271192620020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_14
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 707
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099cfc51b19d2d40800000000000000
+      internalID: 5561261305827727619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_15
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 699
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db57d8dc2eeb0b0800000000000000
+      internalID: -5710877904989733617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_16
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 691
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1d7a20e7338ef0800000000000000
+      internalID: -107180530201715502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_17
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 675
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15bf99ab5f97150800000000000000
+      internalID: 5870993771050258930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_18
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 707
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e81938d6dd9080800000000000000
+      internalID: -9178944241351989703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_19
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 703
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6d96dc9bad50a00800000000000000
+      internalID: 722223806812903158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_20
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 694
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d4b90633ccaff0800000000000000
+      internalID: -23429261185198521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 703
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb7be68dd96de00800000000000000
+      internalID: 1069215514443103878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_22
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 677
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef963671d54ff40800000000000000
+      internalID: 5761332178347228694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_23
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 703
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215060e4de02bb680800000000000000
+      internalID: -8738354448393960174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_24
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 691
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91aa343fc94f4850800000000000000
+      internalID: 6363385952781115802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 648
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683b6f69ce6c2760800000000000000
+      internalID: 7434438896318625898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 689
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7c747886dc50a0800000000000000
+      internalID: -6891397448225489578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_27
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 691
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec12bb3b366a510800000000000000
+      internalID: 1560043944520306297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 659
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961777ed69c6d200800000000000000
+      internalID: 204572306963895952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_29
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28caf2286dee04cb0800000000000000
+      internalID: -4881639390995043198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_30
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 675
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9d7214fca9e080800000000000000
+      internalID: -9157598202998973417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_31
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 690
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b279e6bd8c6de39c0800000000000000
+      internalID: -3945480065366714581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_32
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 687
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4050b95c3da261b0800000000000000
+      internalID: -5664774906564292529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_33
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 682
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b34d13a345e1a0800000000000000
+      internalID: -6780939296086708038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_34
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 675
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21de6c9177dbb0a0800000000000000
+      internalID: -6864656324040404689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_35
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 670
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19381aa4a0a7c510800000000000000
+      internalID: 1569399624250702111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_36
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 674
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fbda564ecd0360800000000000000
+      internalID: 7137587786019501791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_37
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 671
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5cba6bbce1ea20800000000000000
+      internalID: 3090011109046639480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_38
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 672
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db9b0ed09c213d0800000000000000
+      internalID: -3237304120683938518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_39
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 677
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b5b74c5179b6a10800000000000000
+      internalID: 1903781387240692566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_40
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8c717897146730800000000000000
+      internalID: 3991341113263557273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_41
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 675
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136b1a384ad861a0800000000000000
+      internalID: -6815958032277871842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_42
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 623
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab3fbc299c0f080800000000000000
+      internalID: -9155596410120062229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_43
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 674
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b251585f7c63030800000000000000
+      internalID: 3474184019876588433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_44
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 666
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67173d9c04ed256d0800000000000000
+      internalID: -3003093631657348746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_45
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 666
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab11dfed5286ec0800000000000000
+      internalID: -3573564664659723645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 647
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d66a3f9459cd20800000000000000
+      internalID: 3299261244881949908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5071c1c721fd30800000000000000
+      internalID: 4463392418828410639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_48
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 620
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda1a6320f7dda70800000000000000
+      internalID: 8853372089963490761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 661
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0163a0ba995c0c90800000000000000
+      internalID: -7202283183148932851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_50
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 611
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1c3078822b40ea0800000000000000
+      internalID: -5907400924069641809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_51
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1fc494106401550800000000000000
+      internalID: 6129476064189936095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_52
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 659
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e911def0564510800000000000000
+      internalID: 1533001778526283720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_53
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 622
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6fa00759e35ac0800000000000000
+      internalID: -3867491095098201291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_54
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 653
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbaf111e301c8020800000000000000
+      internalID: 2345267364714490800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_55
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 638
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930968ce1370d9550800000000000000
+      internalID: 6169094975570481209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_56
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 659
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c3650bdbecebe0800000000000000
+      internalID: -1446522054371981238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_57
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 638
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1ce2a2e5bfb550800000000000000
+      internalID: 6178857198776229056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_58
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 641
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f62cd934d282760800000000000000
+      internalID: 7433240953407827736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_59
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 640
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bbdf3fbf48fdb10800000000000000
+      internalID: 2008470176495680352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_60
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 639
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960b657304638fb50800000000000000
+      internalID: 6627106501109919849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_61
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 640
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b21c3cb1b4bf310800000000000000
+      internalID: 1439827088495422288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_62
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 622
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a0cad697e9b2e40800000000000000
+      internalID: 5632770003325160020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_63
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 643
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373bab0f2871a0170800000000000000
+      internalID: 8145348727204918131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_64
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 653
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eeb950c3b4b2b40800000000000000
+      internalID: 5416505698007379602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 638
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b7ca9ca70fd890800000000000000
+      internalID: -7431212422225479577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_66
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 637
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2ba4ca032816c0800000000000000
+      internalID: -4172546525602567338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_67
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 628
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09892364e225c260800000000000000
+      internalID: 7117133150440491278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 638
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ca9893c86277b90800000000000000
+      internalID: -7244279091899552686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_69
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 640
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095db716bf9a05760800000000000000
+      internalID: 7444637081180820880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_70
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 641
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3cf2ffec290fb0800000000000000
+      internalID: -4681160928589497152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_71
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 630
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030343ae246126b0800000000000000
+      internalID: -5322863133104864503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 628
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9f5dae0c4d487f0800000000000000
+      internalID: -611129724376843807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1af81fa228848c0800000000000000
+      internalID: -4014815946847837730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_74
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 628
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bc0203d3c15140800000000000000
+      internalID: 4706758396618781128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 608
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef296c554f1538880800000000000000
+      internalID: -8609947952749309186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 611
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46be77918dcb41b0800000000000000
+      internalID: -5671213349266868660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_77
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 621
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a1c43bfc4ccd20800000000000000
+      internalID: 3300097268761340276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_78
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 614
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cd7b69d5e6efc0800000000000000
+      internalID: -3465830141240948905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_79
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 626
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82994300536025900800000000000000
+      internalID: 671606119138105640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441074b7d62c4b810800000000000000
+      internalID: 1780261528193663300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_81
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 610
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525b80853d9c1c60800000000000000
+      internalID: 7790274308559557214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_82
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 599
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f2ee6265ea5c30800000000000000
+      internalID: 4349040601109559368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_83
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 616
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a0c009ea89b2fc0800000000000000
+      internalID: -3518550808351470988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_84
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 612
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7596e4d65af64fc0800000000000000
+      internalID: -3510843608642710145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_85
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 603
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5bfef8a4352040800000000000000
+      internalID: 4622158493002717896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_86
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 610
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60acd60fcb72f950800000000000000
+      internalID: 6481378942843134062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_87
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 613
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf697228fb21973e0800000000000000
+      internalID: -2055591141186234628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_88
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 560
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99441207b95abe10800000000000000
+      internalID: 2214180809354791325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_89
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a62faa57520830800000000000000
+      internalID: 4035884263074603071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197b33ccd3be8f660800000000000000
+      internalID: 7419939036744365969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6def278a0e91900800000000000000
+      internalID: 655802234847549146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 514
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299cc37f855b94250800000000000000
+      internalID: 5929469778119674258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_93
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 560
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f078a8dc8b32070800000000000000
+      internalID: 8080505349364715290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_94
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 519
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f33ba1748e63e0800000000000000
+      internalID: -2058562355923258016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_95
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 553
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e71e11dd417790800000000000000
+      internalID: -7534155141065742053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373c4d892f2589d40800000000000000
+      internalID: 5591310139280114547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_97
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 486
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b997db788593130800000000000000
+      internalID: 3546963521553668905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 310
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4965d3dfd3aff0800000000000000
+      internalID: -25931071922549253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 311
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0580cdbdd811d90800000000000000
+      internalID: -7128760759721897755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b4a8ab32ab41ef0800000000000000
+      internalID: -138281025925395611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550ca180dc9a6770800000000000000
+      internalID: 8604862457387418971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023687c2e6863070800000000000000
+      internalID: 8085798489558495746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937590b854dd8a080800000000000000
+      internalID: -9175840950012258503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 190
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a487ae6052e07490800000000000000
+      internalID: -7750446123622890336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_105
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 120
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19d7b14f270db50800000000000000
+      internalID: 6615914245366059425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_106
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a657ed066616b410800000000000000
+      internalID: 1492404954095638184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_107
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 17
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce990a897d94954d0800000000000000
+      internalID: -3145401674414122516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_108
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 87
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45638c7b48c90c00800000000000000
+      internalID: 867444629782619469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_109
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 15
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b541e23fbcea2fdc0800000000000000
+      internalID: -3606628160588868517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_110
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 27
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa88c9404551a1a0800000000000000
+      internalID: -6800060227748590863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_111
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 41
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c31dad677dc6f00800000000000000
+      internalID: 1111500113530928151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_112
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 37
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5acc13469d2ace0800000000000000
+      internalID: -1395313910175980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_113
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 17
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5302cf45a1bfa30800000000000000
+      internalID: 4250019625663739318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_114
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 15
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d8f413f5793a650800000000000000
+      internalID: 6242999943570623899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_115
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 15
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5816c55a98c4ea70800000000000000
+      internalID: 8855423332506802271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_116
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639fcae84c9817fc0800000000000000
+      internalID: -3498863958189868746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_117
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 18
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbcff4587056d070800000000000000
+      internalID: 8130774655016356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_118
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 17
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437bdbc0532657370800000000000000
+      internalID: 8319663866623407924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Stone_A_119
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 0
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f5d36fbf3cd2010800000000000000
+      internalID: 1165803365494251323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Platform_Stone_A_0: -5648656357665396753
+      Platform_Stone_A_1: 5949968744824526215
+      Platform_Stone_A_10: 5560073131604107206
+      Platform_Stone_A_100: -138281025925395611
+      Platform_Stone_A_101: 8604862457387418971
+      Platform_Stone_A_102: 8085798489558495746
+      Platform_Stone_A_103: -9175840950012258503
+      Platform_Stone_A_104: -7750446123622890336
+      Platform_Stone_A_105: 6615914245366059425
+      Platform_Stone_A_106: 1492404954095638184
+      Platform_Stone_A_107: -3145401674414122516
+      Platform_Stone_A_108: 867444629782619469
+      Platform_Stone_A_109: -3606628160588868517
+      Platform_Stone_A_11: 8220200509458353888
+      Platform_Stone_A_110: -6800060227748590863
+      Platform_Stone_A_111: 1111500113530928151
+      Platform_Stone_A_112: -1395313910175980035
+      Platform_Stone_A_113: 4250019625663739318
+      Platform_Stone_A_114: 6242999943570623899
+      Platform_Stone_A_115: 8855423332506802271
+      Platform_Stone_A_116: -3498863958189868746
+      Platform_Stone_A_117: 8130774655016356855
+      Platform_Stone_A_118: 8319663866623407924
+      Platform_Stone_A_119: 1165803365494251323
+      Platform_Stone_A_12: 344191175901111827
+      Platform_Stone_A_13: -4036189271192620020
+      Platform_Stone_A_14: 5561261305827727619
+      Platform_Stone_A_15: -5710877904989733617
+      Platform_Stone_A_16: -107180530201715502
+      Platform_Stone_A_17: 5870993771050258930
+      Platform_Stone_A_18: -9178944241351989703
+      Platform_Stone_A_19: 722223806812903158
+      Platform_Stone_A_2: 5431340322413030808
+      Platform_Stone_A_20: -23429261185198521
+      Platform_Stone_A_21: 1069215514443103878
+      Platform_Stone_A_22: 5761332178347228694
+      Platform_Stone_A_23: -8738354448393960174
+      Platform_Stone_A_24: 6363385952781115802
+      Platform_Stone_A_25: 7434438896318625898
+      Platform_Stone_A_26: -6891397448225489578
+      Platform_Stone_A_27: 1560043944520306297
+      Platform_Stone_A_28: 204572306963895952
+      Platform_Stone_A_29: -4881639390995043198
+      Platform_Stone_A_3: -428033166112445567
+      Platform_Stone_A_30: -9157598202998973417
+      Platform_Stone_A_31: -3945480065366714581
+      Platform_Stone_A_32: -5664774906564292529
+      Platform_Stone_A_33: -6780939296086708038
+      Platform_Stone_A_34: -6864656324040404689
+      Platform_Stone_A_35: 1569399624250702111
+      Platform_Stone_A_36: 7137587786019501791
+      Platform_Stone_A_37: 3090011109046639480
+      Platform_Stone_A_38: -3237304120683938518
+      Platform_Stone_A_39: 1903781387240692566
+      Platform_Stone_A_4: -6475726201883301224
+      Platform_Stone_A_40: 3991341113263557273
+      Platform_Stone_A_41: -6815958032277871842
+      Platform_Stone_A_42: -9155596410120062229
+      Platform_Stone_A_43: 3474184019876588433
+      Platform_Stone_A_44: -3003093631657348746
+      Platform_Stone_A_45: -3573564664659723645
+      Platform_Stone_A_46: 3299261244881949908
+      Platform_Stone_A_47: 4463392418828410639
+      Platform_Stone_A_48: 8853372089963490761
+      Platform_Stone_A_49: -7202283183148932851
+      Platform_Stone_A_5: 2364972616599602738
+      Platform_Stone_A_50: -5907400924069641809
+      Platform_Stone_A_51: 6129476064189936095
+      Platform_Stone_A_52: 1533001778526283720
+      Platform_Stone_A_53: -3867491095098201291
+      Platform_Stone_A_54: 2345267364714490800
+      Platform_Stone_A_55: 6169094975570481209
+      Platform_Stone_A_56: -1446522054371981238
+      Platform_Stone_A_57: 6178857198776229056
+      Platform_Stone_A_58: 7433240953407827736
+      Platform_Stone_A_59: 2008470176495680352
+      Platform_Stone_A_6: -8147952181346995270
+      Platform_Stone_A_60: 6627106501109919849
+      Platform_Stone_A_61: 1439827088495422288
+      Platform_Stone_A_62: 5632770003325160020
+      Platform_Stone_A_63: 8145348727204918131
+      Platform_Stone_A_64: 5416505698007379602
+      Platform_Stone_A_65: -7431212422225479577
+      Platform_Stone_A_66: -4172546525602567338
+      Platform_Stone_A_67: 7117133150440491278
+      Platform_Stone_A_68: -7244279091899552686
+      Platform_Stone_A_69: 7444637081180820880
+      Platform_Stone_A_7: -6494715739645261616
+      Platform_Stone_A_70: -4681160928589497152
+      Platform_Stone_A_71: -5322863133104864503
+      Platform_Stone_A_72: -611129724376843807
+      Platform_Stone_A_73: -4014815946847837730
+      Platform_Stone_A_74: 4706758396618781128
+      Platform_Stone_A_75: -8609947952749309186
+      Platform_Stone_A_76: -5671213349266868660
+      Platform_Stone_A_77: 3300097268761340276
+      Platform_Stone_A_78: -3465830141240948905
+      Platform_Stone_A_79: 671606119138105640
+      Platform_Stone_A_8: 4148076946347033335
+      Platform_Stone_A_80: 1780261528193663300
+      Platform_Stone_A_81: 7790274308559557214
+      Platform_Stone_A_82: 4349040601109559368
+      Platform_Stone_A_83: -3518550808351470988
+      Platform_Stone_A_84: -3510843608642710145
+      Platform_Stone_A_85: 4622158493002717896
+      Platform_Stone_A_86: 6481378942843134062
+      Platform_Stone_A_87: -2055591141186234628
+      Platform_Stone_A_88: 2214180809354791325
+      Platform_Stone_A_89: 4035884263074603071
+      Platform_Stone_A_9: 241163923911984066
+      Platform_Stone_A_90: 7419939036744365969
+      Platform_Stone_A_91: 655802234847549146
+      Platform_Stone_A_92: 5929469778119674258
+      Platform_Stone_A_93: 8080505349364715290
+      Platform_Stone_A_94: -2058562355923258016
+      Platform_Stone_A_95: -7534155141065742053
+      Platform_Stone_A_96: 5591310139280114547
+      Platform_Stone_A_97: 3546963521553668905
+      Platform_Stone_A_98: -25931071922549253
+      Platform_Stone_A_99: -7128760759721897755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
