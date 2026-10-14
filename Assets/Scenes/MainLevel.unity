@@ -595,6 +595,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98aaebb969848ea44ac76ba9881426d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Goal
+  completionPanel: {fileID: 2800000, guid: da43778f4a24a1f498e16ed9369d057c, type: 3}
+  replayButton: {fileID: 2800000, guid: 3f09f0328a7dae8408021846d2605c59, type: 3}
+  goalVisual: {fileID: 630367493}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
