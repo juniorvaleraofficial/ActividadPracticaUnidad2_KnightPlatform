@@ -1,4 +1,4 @@
-# Knight Platform — Actividad Práctica: Animaciones 2D
+# Knight Platform —3.Actividad Práctica: Animaciones 2D
 
 Videojuego de plataformas 2D desarrollado en **Unity 6** con **C#** para la asignatura **INF-4317 — Programación de Videojuegos** de la **Universidad UFHEC**.
 
