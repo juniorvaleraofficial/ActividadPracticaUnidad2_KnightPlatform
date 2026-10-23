@@ -10,6 +10,11 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private float horizontalInput;
     private bool isGrounded = true;
+    private int cakeCount = 0;
+    private int chickenCount = 0;
+    private int coffeeCount = 0;
+    private int jamCount = 0;
+    private int cookieCount = 0;
 
     void Start()
     {
@@ -69,4 +74,47 @@ public class PlayerMovement : MonoBehaviour
             isGrounded = false;
         }
     }
+
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (!other.CompareTag("Collectible"))
+        {
+            return;
+        }
+
+        switch (other.gameObject.name)
+        {
+            case "Cake":
+                cakeCount++;
+                break;
+
+            case "Chicken":
+                chickenCount++;
+                break;
+
+            case "Coffee":
+                coffeeCount++;
+                break;
+
+            case "Jam":
+                jamCount++;
+                break;
+
+            case "Cookie":
+                cookieCount++;
+                break;
+
+            default:
+                return;
+        }
+
+        Debug.Log(
+            $"Cake: {cakeCount} | Chicken: {chickenCount} | " +
+            $"Coffee: {coffeeCount} | Jam: {jamCount} | Cookie: {cookieCount}"
+        );
+
+        Destroy(other.gameObject);
+    }
+
 }
