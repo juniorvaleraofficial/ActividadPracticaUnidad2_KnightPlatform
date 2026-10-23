@@ -1,99 +1,40 @@
-# Knight Platform —3.Actividad Práctica: Animaciones 2D
+# Actividad Práctica 3: Objetos 2D — Knight Platform
 
-Videojuego de plataformas 2D desarrollado en **Unity 6** con **C#** para la asignatura **INF-4317 — Programación de Videojuegos** de la **Universidad UFHEC**.
+## Descripción
 
-Este trabajo continúa el proyecto de la unidad anterior y adapta las animaciones del caballero a los requisitos de la actividad **«Animaciones 2D»**.
+Ampliación del videojuego **Knight Platform**, desarrollado en **Unity 6 y C#**, mediante la implementación de un sistema de recolección de objetos en un escenario de plataformas 2D con temática medieval.
 
-## Objetivo de la práctica
+## Funcionalidades implementadas
 
-Configurar sprites, colisiones y animaciones 2D para que el personaje cambie automáticamente entre reposo (**Idle**), desplazamiento (**Run**) y salto (**Jump**) según las acciones del jugador.
+- Cinco alimentos coleccionables: **Cake, Chicken, Coffee, Jam y Cookie**.
+- Detección mediante `OnTriggerEnter2D` y colliders con **Is Trigger** activado.
+- Identificación de objetos con el **Tag `Collectible`** y la **Layer `Collectibles`**.
+- Desaparición de cada objeto después de recogerlo.
+- Contadores independientes actualizados en pantalla mediante **TextMeshPro**.
+- Interfaz con fondo semitransparente para mejorar la lectura.
+- Conservación del movimiento, salto, animaciones y meta del nivel.
 
-## Descripción del juego
+## Tecnologías utilizadas
 
-El jugador controla a un caballero en un escenario medieval con plataformas de piedra. Puede desplazarse en ambas direcciones, saltar, superar las plataformas y alcanzar una bandera que completa el nivel. Al llegar a la meta, aparece una pantalla de victoria con la opción **«Volver a jugar»**.
+- **Unity 6**
+- **C#**
+- **TextMeshPro**
+- **Rigidbody2D** y **BoxCollider2D**
+- **Git y GitHub**
 
-## Controles
+## Controles y funcionamiento
 
 | Acción | Tecla |
-| --- | --- |
-| Mover a la izquierda | `A` o `←` |
-| Mover a la derecha | `D` o `→` |
+|---|---|
+| Moverse a la izquierda o derecha | `A` / `D` o flechas `←` / `→` |
 | Saltar | `Espacio` |
-| Reiniciar al completar el nivel | Botón «Volver a jugar» |
 
-## Animaciones del personaje
+El jugador controla a un caballero que explora las plataformas y recoge alimentos. Cuando entra en contacto con uno, el objeto desaparece y su contador aumenta automáticamente. Al llegar a la meta, puede completar y reiniciar el nivel.
 
-Los sprites están divididos en fotogramas de **96 × 84 píxeles** y se utilizan en tres clips:
+## Repositorio
 
-| Clip | Acción | Fotogramas | Sample Rate |
-| --- | --- | ---: | ---: |
-| `Player_Idle` | Caballero en reposo | 7 | 12 FPS |
-| `Player_Run` | Caballero caminando o corriendo | 8 | 12 FPS |
-| `Player_Jump` | Caballero saltando | 5 | 12 FPS |
-
-`Player_Idle` es el estado predeterminado del **Animator**. Los clips se seleccionan por condiciones en sus transiciones, con **Has Exit Time desactivado** y **Transition Duration = 0**.
-
-### Parámetros del Animator
-
-- **`Speed` (float):** representa el movimiento horizontal. Cuando supera `0.1`, activa `Player_Run`; al quedar por debajo de `0.1`, vuelve a `Player_Idle` si no está saltando.
-- **`IsJumping` (bool):** cuando es `true`, activa `Player_Jump` desde `Any State`; al aterrizar cambia a `false`, permitiendo volver a reposo o movimiento según `Speed`.
-
-Las transiciones de salida del salto incluyen ambas condiciones (`IsJumping` y `Speed`) para determinar si el personaje aterriza quieto o desplazándose.
-
-### Control de animaciones desde C#
-
-El script [`Assets/Scripts/PlayerMovement.cs`](Assets/Scripts/PlayerMovement.cs) gestiona el movimiento y actualiza los parámetros del Animator:
-
-```csharp
-animator.SetFloat("Speed", Mathf.Abs(horizontalInput));
-animator.SetBool("IsJumping", true);  // Al iniciar el salto
-animator.SetBool("IsJumping", false); // Al aterrizar sobre Ground
-```
-
-## Componentes de Unity
-
-El objeto **Player** incorpora:
-
-- **Sprite Renderer:** muestra el sprite inicial `IDLE_0` y los fotogramas animados.
-- **BoxCollider2D:** representa el área de colisión del cuerpo del personaje.
-- **Rigidbody2D:** aplica gravedad y permite el desplazamiento físico.
-- **Animator:** administra los estados y las transiciones entre animaciones.
-- **PlayerMovement:** controla los desplazamientos, el salto y los parámetros de animación.
-
-El script [`Assets/Scripts/Goal.cs`](Assets/Scripts/Goal.cs) detecta cuándo el jugador alcanza la meta, muestra el panel de nivel completado y permite reiniciar la escena.
-
-## Estructura principal
-
-```text
-Assets/
-├── Animations/
-│   ├── Player.controller
-│   ├── Player_Idle.anim
-│   ├── Player_Run.anim
-│   └── Player_Jump.anim
-├── Art/
-│   ├── Characters/
-│   ├── Background/
-│   └── Environment/
-├── Scenes/
-│   └── MainLevel.unity
-└── Scripts/
-    ├── PlayerMovement.cs
-    └── Goal.cs
-```
-
-## Cómo ejecutar el proyecto
-
-1. Clonar o descargar el repositorio.
-2. Abrir la carpeta del proyecto desde **Unity Hub**, con una versión compatible de Unity 6 (el proyecto se editó con **6000.6.2f1**).
-3. Abrir la escena `Assets/Scenes/MainLevel.unity`.
-4. Presionar **Play** en Unity para iniciar el juego.
-
-## Entrega académica
-
-La entrega de **Animaciones 2D** incluye este proyecto de Unity y un **PDF de evidencias** con capturas de los sprites, el Sprite Renderer, el BoxCollider2D, los clips de animación, el Animator, el código C# y el juego en ejecución.
-
-**Rama de trabajo de esta entrega:** [`practica-3-presentacion`](https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform/tree/practica-3-presentacion)
+- [Knight Platform en GitHub](https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform)
+- **Rama de esta práctica:** [`3-actividad-practica-2`](https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform/tree/3-actividad-practica-2)
 
 ## Autor
 
@@ -101,5 +42,3 @@ La entrega de **Animaciones 2D** incluye este proyecto de Unity y un **PDF de ev
 **Matrícula:** MT-2023-00518  
 **Universidad:** UFHEC  
 **Asignatura:** INF-4317 — Programación de Videojuegos
-
-**Repositorio:** https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform
