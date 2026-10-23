@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -15,12 +16,15 @@ public class PlayerMovement : MonoBehaviour
     private int coffeeCount = 0;
     private int jamCount = 0;
     private int cookieCount = 0;
+    [SerializeField] private TMP_Text contadorJuego;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        ActualizarContador();
     }
 
     void Update()
@@ -109,6 +113,8 @@ public class PlayerMovement : MonoBehaviour
                 return;
         }
 
+        ActualizarContador();
+
         Debug.Log(
             $"Cake: {cakeCount} | Chicken: {chickenCount} | " +
             $"Coffee: {coffeeCount} | Jam: {jamCount} | Cookie: {cookieCount}"
@@ -116,5 +122,21 @@ public class PlayerMovement : MonoBehaviour
 
         Destroy(other.gameObject);
     }
+
+
+    private void ActualizarContador()
+    {
+        if (contadorJuego == null)
+        {
+            Debug.LogWarning("Falta asignar ContadorJuego en el Inspector.");
+            return;
+        }
+
+        contadorJuego.text =
+            $"Cake: {cakeCount} | Chicken: {chickenCount} | " +
+            $"Coffee: {coffeeCount} | Jam: {jamCount} | " +
+            $"Cookie: {cookieCount}";
+    }
+
 
 }
