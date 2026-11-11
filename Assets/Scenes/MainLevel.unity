@@ -868,7 +868,7 @@ Transform:
   m_GameObject: {fileID: 326212617}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.11, y: -2.76, z: 0}
+  m_LocalPosition: {x: -2.51, y: 3.74, z: 0}
   m_LocalScale: {x: 0.12, y: 0.12, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1864,7 +1864,7 @@ Transform:
   m_GameObject: {fileID: 796357773}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.31, y: -2.51, z: 0}
+  m_LocalPosition: {x: 6.31, y: 1.78, z: 0}
   m_LocalScale: {x: 0.12, y: 0.12, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2449,6 +2449,7 @@ GameObject:
   - component: {fileID: 1486921938}
   - component: {fileID: 1486921939}
   - component: {fileID: 1486921940}
+  - component: {fileID: 1486921941}
   m_Layer: 0
   m_Name: Goblin
   m_TagString: Untagged
@@ -2614,7 +2615,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.103471875, y: -0.09323448}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -2624,8 +2625,22 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.609375, y: 1.828125}
+  m_Size: {x: 1.0238259, y: 1.641656}
   m_EdgeRadius: 0
+--- !u!114 &1486921941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486921935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed06063138a2c4e4a9d5b6ada80df4db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleEnemy
+  moveSpeed: 2
+  patrolDistance: 1
 --- !u!1 &1678611482
 GameObject:
   m_ObjectHideFlags: 0
@@ -3159,7 +3174,7 @@ Transform:
   m_GameObject: {fileID: 1875672856}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.84, y: -4.32, z: 0}
+  m_LocalPosition: {x: 7.73, y: -4.32, z: 0}
   m_LocalScale: {x: 0.8, y: 1.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
