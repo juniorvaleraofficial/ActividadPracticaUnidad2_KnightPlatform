@@ -3,6 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class Goal : MonoBehaviour
 {
+    public Texture2D completionPanel;
+    public Texture2D replayButton;
+    public GameObject goalVisual;
+
     private bool levelCompleted = false;
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -11,8 +15,24 @@ public class Goal : MonoBehaviour
         {
             levelCompleted = true;
 
-            GetComponent<SpriteRenderer>().enabled = false;
-            GetComponent<BoxCollider2D>().enabled = false;
+            SpriteRenderer renderer = GetComponent<SpriteRenderer>();
+
+            if (renderer != null)
+            {
+                renderer.enabled = false;
+            }
+
+            BoxCollider2D goalCollider = GetComponent<BoxCollider2D>();
+
+            if (goalCollider != null)
+            {
+                goalCollider.enabled = false;
+            }
+
+            if (goalVisual != null)
+            {
+                goalVisual.SetActive(false);
+            }
 
             PlayerMovement movement = other.GetComponent<PlayerMovement>();
 
@@ -25,44 +45,77 @@ public class Goal : MonoBehaviour
 
     private void OnGUI()
     {
-        if (levelCompleted)
+        if (!levelCompleted)
         {
-            GUIStyle boxStyle = new GUIStyle(GUI.skin.box);
-            boxStyle.fontSize = 36;
-            boxStyle.alignment = TextAnchor.MiddleCenter;
-            boxStyle.fontStyle = FontStyle.Bold;
+            return;
+        }
 
-            GUIStyle buttonStyle = new GUIStyle(GUI.skin.button);
-            buttonStyle.fontSize = 22;
-            buttonStyle.fontStyle = FontStyle.Bold;
+        if (completionPanel == null || replayButton == null)
+        {
+            return;
+        }
 
-            float boxWidth = 500;
-            float boxHeight = 220;
+        float panelWidth = Mathf.Min(Screen.width * 0.5f, 900f);
 
-            float boxX = (Screen.width - boxWidth) / 2;
-            float boxY = (Screen.height - boxHeight) / 2;
+        float panelHeight =
+            panelWidth *
+            completionPanel.height /
+            completionPanel.width;
 
-            GUI.Box(
-                new Rect(boxX, boxY, boxWidth, boxHeight),
-                "¡NIVEL COMPLETADO!",
-                boxStyle
+        float buttonWidth = panelWidth * 0.55f;
+
+        float buttonHeight =
+            buttonWidth *
+            replayButton.height /
+            replayButton.width;
+
+        float spacing = 20f;
+
+        float totalHeight =
+            panelHeight +
+            spacing +
+            buttonHeight;
+
+        float startY =
+            (Screen.height - totalHeight) / 2f;
+
+        Rect panelRect = new Rect(
+            (Screen.width - panelWidth) / 2f,
+            startY,
+            panelWidth,
+            panelHeight
+        );
+
+        Rect buttonRect = new Rect(
+            (Screen.width - buttonWidth) / 2f,
+            startY + panelHeight + spacing,
+            buttonWidth,
+            buttonHeight
+        );
+
+        GUI.DrawTexture(
+            panelRect,
+            completionPanel,
+            ScaleMode.ScaleToFit,
+            true
+        );
+
+        GUI.DrawTexture(
+            buttonRect,
+            replayButton,
+            ScaleMode.ScaleToFit,
+            true
+        );
+
+        if (GUI.Button(
+            buttonRect,
+            GUIContent.none,
+            GUIStyle.none
+        ))
+        {
+            SceneManager.LoadScene(
+                SceneManager.GetActiveScene().name
             );
-
-            if (GUI.Button(
-                new Rect(
-                    Screen.width / 2 - 100,
-                    boxY + 140,
-                    200,
-                    50
-                ),
-                "Jugar de nuevo",
-                buttonStyle
-            ))
-            {
-                SceneManager.LoadScene(
-                    SceneManager.GetActiveScene().name
-                );
-            }
         }
     }
 }
