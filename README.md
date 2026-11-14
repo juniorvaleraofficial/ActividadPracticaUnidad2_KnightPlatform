@@ -1,44 +1,30 @@
-# Actividad Práctica 3: Objetos 2D — Knight Platform
+# Knight Platform — Actividad Práctica 4: Enemigos
 
-## Descripción
+Videojuego de plataformas 2D desarrollado con **Unity 6 y C#** para la asignatura **Programación de Videojuegos (UFHEC)**.
 
-Ampliación del videojuego **Knight Platform**, desarrollado en **Unity 6 y C#**, mediante la implementación de un sistema de recolección de objetos en un escenario de plataformas 2D con temática medieval.
+## Contenido de la práctica
 
-## Funcionalidades implementadas
+En **Level01** se incorporaron enemigos con sprites y animaciones:
 
-- Cinco alimentos coleccionables: **Cake, Chicken, Coffee, Jam y Cookie**.
-- Detección mediante `OnTriggerEnter2D` y colliders con **Is Trigger** activado.
-- Identificación de objetos con el **Tag `Collectible`** y la **Layer `Collectibles`**.
-- Desaparición de cada objeto después de recogerlo.
-- Contadores independientes actualizados en pantalla mediante **TextMeshPro**.
-- Interfaz con fondo semitransparente para mejorar la lectura.
-- Conservación del movimiento, salto, animaciones y meta del nivel.
+- **Enemigo simple:** patrulla una distancia configurada mediante `SimpleEnemy.cs`.
+- **Enemigo complejo:** patrulla, se detiene y persigue al jugador cuando lo detecta, mediante `ComplexEnemy.cs`.
+- **Colisiones:** el contacto físico con un enemigo reinicia el nivel mediante `EnemyCollision.cs`.
+- **Configuración:** enemigos identificados con la etiqueta `Enemy` y la capa `Enemies`, con componentes de física y colisiones 2D.
 
-## Tecnologías utilizadas
+## Ampliación en desarrollo
 
-- **Unity 6**
-- **C#**
-- **TextMeshPro**
-- **Rigidbody2D** y **BoxCollider2D**
-- **Git y GitHub**
+Se creó **Level02**, un escenario medieval para el futuro combate final. Incluye un dragón con animaciones de reposo, vuelo y ataque de fuego, controlado mediante `DragonBoss.cs`. Esta escena aún está en desarrollo y no es parte de los requisitos obligatorios de esta práctica.
 
-## Controles y funcionamiento
+## Tecnologías
 
-| Acción | Tecla |
-|---|---|
-| Moverse a la izquierda o derecha | `A` / `D` o flechas `←` / `→` |
-| Saltar | `Espacio` |
+- Unity 6
+- C#
+- Física 2D y Animator
 
-El jugador controla a un caballero que explora las plataformas y recoge alimentos. Cuando entra en contacto con uno, el objeto desaparece y su contador aumenta automáticamente. Al llegar a la meta, puede completar y reiniciar el nivel.
+## Evidencia
 
-## Repositorio
+[Video de funcionamiento del juego](https://canva.link/5ry919nqaibkns7)
 
-- [Knight Platform en GitHub](https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform)
-- **Rama de esta práctica:** [`3-actividad-practica-2`](https://github.com/juniorvaleraofficial/ActividadPracticaUnidad2_KnightPlatform/tree/3-actividad-practica-2)
+## Próximos pasos
 
-## Autor
-
-**Junior Alexis Valera Rijo**  
-**Matrícula:** MT-2023-00518  
-**Universidad:** UFHEC  
-**Asignatura:** INF-4317 — Programación de Videojuegos
+Completar la transición entre escenas y las mecánicas del enfrentamiento final en la siguiente práctica.
